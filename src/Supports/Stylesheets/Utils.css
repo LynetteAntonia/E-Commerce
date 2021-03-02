@@ -1,0 +1,138 @@
+:root{
+    --primary : #193819;
+    --secondary: #545e31;
+    --third: #fdf3af;
+    --fourth: #dda15e;
+    --fifth: #99581e;
+    --dark: #020202;
+    --light: #f1f1f1;
+    overflow-x:hidden;
+}
+
+/* Background Color */
+.bumiabdi-bg-primary{
+    background-color: var(--primary);
+}
+
+.bumiabdi-bg-secondary{
+    background-color: var(--secondary);
+}
+
+.bumiabdi-bg-third{
+    background-color: var(--third);
+}
+
+.bumiabdi-bg-fourth{
+    background-color: var(--fourth);
+}
+.bumiabdi-bg-fifth{
+    background-color: var(--fifth);
+}
+
+.bumiabdi-bg-dark{
+    background-color: var(--dark);
+}
+
+.bumiabdi-bg-light{
+    background-color: var(--light);
+}
+
+
+
+
+/* Font Color */
+
+.bumiabdi-font-primary{
+    color: var(--primary)
+}
+
+.bumiabdi--font-secondary{
+    color: var(--secondary)
+}
+
+.bumiabdi-font-third{
+    color: var(--third)
+}
+
+.bumiabdi-font-fourth{
+    color: var(--fourth)
+}
+
+.bumiabdi-font-third{
+    color: var(--fifth)
+}
+
+
+.bumiabdi-font-dark{
+    color: var(--dark)
+}
+
+.bumiabdi-font-light{
+    color: var(--light)
+}
+
+/* Font Family */
+
+.bumiabdi-fontfam-logo{
+    font-family: 'Lusitana', serif;
+}
+.bumiabdi-fontfam-primary{
+    font-family: 'Montserrat', sans-serif;
+}
+.bumiabdi-fontfam-secondary{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* Font-Size */
+.bumiabdi-font-size-10{
+    font-size: 10px;
+}
+
+.bumiabdi-font-size-12{
+    font-size: 12px;
+}
+
+.bumiabdi-font-size-13{
+    font-size: 13px;
+}
+
+.bumiabdi-font-size-14{
+    font-size: 14px;
+}
+
+.bumiabdi-font-size-16{
+    font-size: 16px;
+}
+
+.bumiabdi-font-size-18{
+    font-size: 18px;
+}
+
+.bumiabdi-font-size-20{
+    font-size: 20px;
+}
+
+.bumiabdi-font-size-25{
+    font-size: 25px;
+}
+
+.bumiabdi-font-size-30{
+    font-size: 30px;
+}
+
+.bumiabdi-font-size-35{
+    font-size: 35px;
+}
+
+
+
+/* Link */
+.bumiabdi-link{
+    color: inherit;
+}
+
+.bumiabdi-link:hover{
+    color: inherit;
+    text-decoration: none;
+}

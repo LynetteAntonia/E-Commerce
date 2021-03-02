@@ -1,0 +1,308 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "phone": "087846583476",
+            "email": "",
+            "username": "lynetteantonia",
+            "password": "123456789",
+            "roles": "user"
+
+        },
+        {
+            "id": 2,
+            "phone": "",
+            "email": "antonia@gmail.com",
+            "username": "antonia234",
+            "password": "123456789",
+            "roles": "user"
+
+        }
+    ],
+
+    "products" : [
+        {
+            "id": 1,
+            "name": "Kursi Plaga",
+            "brand": "Fabelio",
+            "category": "Kursi Makan",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/s/i/Simo_Dining_Chair_2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/s/i/Simo_Dining_Chair_3.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/s/i/Simo_Dining_Chair_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 2,
+            "name": "Kursi Kintamani",
+            "brand": "Fabelio",
+            "category": "Kursi Makan",
+            "stock": 35,
+            "price": 1500000,
+            "diskon": 0,
+            "weight": 1500,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/b/u/Bugsy_Dining_Chair_(Graphite)_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/b/u/Bugsy_Dining_Chair_(Graphite)_2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/b/u/Bugsy_Dining_Chair_(Graphite)_0.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 3,
+            "name": "Kursi Singaraja",
+            "brand": "Fabelio",
+            "category": "Kursi Makan",
+            "stock": 50,
+            "price": 1000000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/k/a/Kanigoro_Dining_Chair_2.jpg?auto=format&w=1446&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/k/a/Kanigoro_Dining_Chair_3.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/k/a/Kanigoro_Dining_Chair_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 4,
+            "name": "Kursi Batubulan",
+            "brand": "Fabelio",
+            "category": "Kursi Makan",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/k/u/kursi-makan-kojo-light-khaki-3_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/k/u/kursi-makan-kojo-light-khaki-1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/k/u/kursi-makan-kojo-light-khaki-2.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 5,
+            "name": "Kursi Dalung",
+            "brand": "Fabelio",
+            "category": "Kursi Makan",
+            "stock": 17,
+            "price": 4500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/w/i/Wishbone_Dining_Chair_(Jati)_2.jpg?auto=format&w=1446&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/w/i/Wishbone_Dining_Chair_(Jati)_3.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/w/i/Wishbone_Dining_Chair_(Jati)_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 6,
+            "name": "Meja Plaga",
+            "brand": "Fabelio",
+            "category": "Meja Makan",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/s/a/San_Remo_4_Seater_Dining_Table_11.jpg?auto=format&w=1446&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/s/a/San_Remo_4_Seater_Dining_Table_14.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/s/a/San_Remo_4_Seater_Dining_Table_14.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 7,
+            "name": "Meja Kintamani",
+            "brand": "Mebelika",
+            "category": "Meja Makan",
+            "stock": 35,
+            "price": 1500000,
+            "diskon": 0,
+            "weight": 1500,
+            "image1": "https://mebelika.co.id/wp-content/uploads/2020/12/INDI-DINIING-TABLE-03-100x100.jpg",
+            "image2": "https://mebelika.co.id/wp-content/uploads/2020/12/INDI-DINIING-TABLE-01-600x600.jpg",
+            "image3": "https://mebelika.co.id/wp-content/uploads/2020/12/INDI-DINIING-TABLE-05-600x600.jpg"
+
+        },
+        {
+            "id": 8,
+            "name": "Meja Singaraja",
+            "brand": "Mebelika",
+            "category": "Meja Makan",
+            "stock": 50,
+            "price": 1000000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://mebelika.co.id/wp-content/uploads/2020/12/JANE-DINING-TABLE-02.jpg",
+            "image2": "https://mebelika.co.id/wp-content/uploads/2020/12/JANE-DINING-TABLE-01-600x600.jpg",
+            "image3": "https://mebelika.co.id/wp-content/uploads/2020/12/JANE-DINING-TABLE-04-600x600.jpg"
+
+        },
+        {
+            "id": 9,
+            "name": "Meja Batubulan",
+            "brand": "Fabelio",
+            "category": "Meja Makan",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/s/a/sara_dining_table_wood_top_-_view_1_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/s/a/sara_dining_table_wood_top_-_view_2_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/s/a/sara_dining_table_wood_top_-_view_3_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 10,
+            "name": "Meja Dalung",
+            "brand": "Fabelio",
+            "category": "Meja Makan",
+            "stock": 17,
+            "price": 4500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://mebelika.co.id/wp-content/uploads/2020/12/CLETEA-DINING-TABLE-04.jpg",
+            "image2": "https://mebelika.co.id/wp-content/uploads/2020/12/CLETEA-DINING-TABLE-03-600x600.jpg",
+            "image3": "https://mebelika.co.id/wp-content/uploads/2020/12/CLETEA-DINING-TABLE-01-600x600.jpg"
+
+        },
+        {
+            "id": 11,
+            "name": "Lampu Plaga",
+            "brand": "Fabelio",
+            "category": "Lampu",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/5/1/518926---baltimore-floor-lamp-small_black-re_1_1_2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/5/1/518926---baltimore-floor-lamp-small_black-re_2_2.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampu_lantai_baltimore_black-_27_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 12,
+            "name": "Lampu Kintamani",
+            "brand": "Mebelika",
+            "category": "Lampu",
+            "stock": 35,
+            "price": 1500000,
+            "diskon": 0,
+            "weight": 1500,
+            "image1": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_2_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image2": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_3_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3",
+            "image3": "https://cdn-m2.fabelio.com/catalog/product/l/a/lampul_baltimore_smallblack_2_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+
+        },
+        {
+            "id": 13,
+            "name": "Lampu Singaraja",
+            "brand": "Dekoruma",
+            "category": "Lampu",
+            "stock": 50,
+            "price": 1000000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://f1-styx.imgix.net/catalogue/KGM-345803.jpg?w=640&h=640&fit=crop&auto=format",
+            "image2": "https://f1-styx.imgix.net/catalogue/KGM-345803_1.jpg?w=640&h=640&fit=crop&auto=format",
+            "image3": "https://f1-styx.imgix.net/catalogue/KGM-345803_4.jpg?w=640&h=640&fit=crop&auto=format"
+
+        },
+        {
+            "id": 14,
+            "name": "Lampu Batubulan",
+            "brand": "Dekoruma",
+            "category": "Lampu",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://f1-styx.imgix.net/catalogue/KGM-379619.jpg?w=640&h=640&fit=crop&auto=format",
+            "image2": "https://f1-styx.imgix.net/catalogue/KGM-379619_1.jpg?w=640&h=640&fit=crop&auto=format",
+            "image3": "https://f1-styx.imgix.net/catalogue/KGM-379619_3.jpg?w=640&h=640&fit=crop&auto=format"
+
+        },
+        {
+            "id": 15,
+            "name": "Lampu Dalung",
+            "brand": "fabelio",
+            "category": "Lampu",
+            "stock": 17,
+            "price": 4500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://mebelika.co.id/wp-content/uploads/2020/12/CLETEA-DINING-TABLE-04.jpg",
+            "image2": "https://mebelika.co.id/wp-content/uploads/2020/12/CLETEA-DINING-TABLE-03-600x600.jpg",
+            "image3": "https://mebelika.co.id/wp-content/uploads/2020/12/CLETEA-DINING-TABLE-01-600x600.jpg"
+
+        },
+        {
+            "id": 16,
+            "name": "Sofa Plaga",
+            "brand": "Cellini",
+            "category": "Sofa",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://cellini.co.id/wp-content/files_mf/1583998814kofsofaweb1.jpg",
+            "image2": "https://cellini.co.id/wp-content/files_mf/1583998831kofsofaweb3.jpg",
+            "image3": "https://cellini.co.id/wp-content/files_mf/1611636071SF9482KOFLshape4.jpg"
+
+        },
+        {
+            "id": 17,
+            "name": "Sofa Kintamani",
+            "brand": "Create and Barrel",
+            "category": "Lampu",
+            "stock": 35,
+            "price": 1500000,
+            "diskon": 0,
+            "weight": 1500,
+            "image1": "https://images.crateandbarrel.com/is/image/Crate/PlateauLthrSofaStoneSOSSS21/?$web_pdp_main_carousel_med$&210113161618&wid=1008&hei=567",
+            "image2": "https://images.crateandbarrel.com/is/image/Crate/PlateauLthrSofaStone3QSSS21/?$web_pdp_main_carousel_med$&210301205223&wid=1008&hei=567",
+            "image3": "https://images.crateandbarrel.com/is/image/Crate/PlateauLthrSofaStoneSDSSS21/?$web_pdp_main_carousel_med$&210301205223&wid=1008&hei=567"
+        },
+        {
+            "id": 18,
+            "name": "Sofa Singaraja",
+            "brand": "Create and Barrel",
+            "category": "Sofa",
+            "stock": 50,
+            "price": 1000000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://images.crateandbarrel.com/is/image/Crate/RollinsLeatherSofaSOSSS20_1x1/?$web_pdp_main_carousel_med$&200512113802&wid=1008&hei=567",
+            "image2": "https://images.crateandbarrel.com/is/image/Crate/RollinsLeatherSofa3QS19/?$web_pdp_main_carousel_med$&210301211705&wid=1008&hei=567",
+            "image3": "https://images.crateandbarrel.com/is/image/Crate/F20_109_E_2_Det_008/?$web_pdp_main_carousel_med$&210301211705&wid=1008&hei=567"
+
+        },
+        {
+            "id": 19,
+            "name": "Sofa Batubulan",
+            "brand": "Create and Barrel",
+            "category": "Sofa",
+            "stock": 40,
+            "price": 2500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://images.crateandbarrel.com/is/image/Crate/AidanVlAptSofaCESOSSF20_3D/?$web_pdp_main_carousel_med$&201016164141&wid=1008&hei=567",
+            "image2": "https://images.crateandbarrel.com/is/image/Crate/AidanSofaComoOliveAVF17/?$web_pdp_main_carousel_med$&210301200438&wid=1008&hei=567",
+            "image3": "https://images.crateandbarrel.com/is/image/Crate/AidanAptSofaComoOlive3QF17/?$web_pdp_main_carousel_med$&210301212615&wid=1008&hei=567"
+
+        },
+        {
+            "id": 20,
+            "name": "Sofa Dalung",
+            "brand": "Create and Barrel",
+            "category": "kursi makan",
+            "stock": 17,
+            "price": 4500000,
+            "diskon": 20,
+            "weight": 1000,
+            "image1": "https://images.crateandbarrel.com/is/image/Crate/item_717_155_1970_2297/a/s9JyonuEG5OxnLH9FYNw/item_717_155_1970_2297.jpg?$web_zoom_furn_colormap$&wid=1008&hei=567",
+            "image2": "https://images.crateandbarrel.com/is/image/Crate/Rosalina84inSofaSphBySOS19_3D/?$web_pdp_main_carousel_med$&210301205305&wid=1008&hei=567",
+            "image3": "https://images.crateandbarrel.com/is/image/Crate/Rosalina84inSofaSphBySOS19_3D/?$web_pdp_main_carousel_med$&210301205305&wid=1008&hei=567"
+
+        }
+    ],
+
+            "carts": [],
+
+            "transaction" : []
+}
